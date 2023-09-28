@@ -41,6 +41,7 @@
 .api_block {
     min-height: 789px;
     width: 100%;
+    background: red;
 }
 
 .community_block {
