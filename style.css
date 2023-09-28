@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.page_wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+
+.introduction_wrapper {
+    min-height: 100vh;
+    width: 100%;
+}
+
+.slider_wrapper {
+    width: 100%;
+    min-height: 880px;
+    background: var(--Dark-blue, #232328);
+}
+
+.devider_line {
+    width: 100%;
+    min-height: 120px;
+}
+
+.features_block {
+    width: 100%;
+    min-height: 1695px;
+}
+
+.instruction_block {
+    min-height: 1886px;
+    width: 100%;
+    background: var(--Bg-light, #F7F9FB);
+}
+
+.api_block {
+    min-height: 789px;
+    width: 100%;
+}
+
+.community_block {
+    min-height: 538px;
+    width: 100%;
+}
+
+.footer_block {
+    min-height: 272px;
+    width: 100%;
+    background: var(--Dark-blue, #232328);
+}
